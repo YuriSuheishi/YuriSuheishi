@@ -1,4 +1,4 @@
-# 👨‍💻 Desenvolvedor React e Next.js
+# 👨‍💻 Yuri Suheishi
 
 Bem-vindo ao meu repositório! Sou um desenvolvedor frontend com mais de **3 anos de experiência** criando aplicações modernas e escaláveis com **React** e **Next.js**.
 No momento estou organizando o Github, já que durante o tempo que trabalhei usei exclusivamente o email corporativo para desenvolver!
@@ -12,6 +12,23 @@ No momento estou organizando o Github, já que durante o tempo que trabalhei use
 - **Teste:** Jest, React Testing Library
 - **Controle de versão:** Git, GitHub
 - **Integrações:** APIs REST, GraphQL, Jira, Teams
+
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
 
 ## 📫 Contato
 
