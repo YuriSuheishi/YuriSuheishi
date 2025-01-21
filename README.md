@@ -15,7 +15,7 @@ No momento estou organizando o Github, já que durante o tempo que trabalhei use
 
 ## 📫 Contato
 
-- **LinkedIn:** [seu-perfil-linkedin]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/yuri-suheishi-56b009153/))
+- **LinkedIn:** [Yuri Suheishi]([https://www.linkedin.com/in/yuri-suheishi-56b009153/])
 - **Email:** yuri.suhet@gmail.com
 
 ---
