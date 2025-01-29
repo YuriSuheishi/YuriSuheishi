@@ -1,7 +1,11 @@
 # 👨‍💻 Yuri Suheishi
 
+Welcome to my repository! I'm a frontend developer with over **3 years of experience** creating modern, scalable applications with **React** and **Next.js**.
+I'm currently organizing my Github, since during the time I worked at Pagbank I exclusively used the corporate account to develop!
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Bem-vindo ao meu repositório! Sou um desenvolvedor frontend com mais de **3 anos de experiência** criando aplicações modernas e escaláveis com **React** e **Next.js**.
-No momento estou organizando o Github, já que durante o tempo que trabalhei usei exclusivamente o email corporativo para desenvolver!
+No momento estou organizando o Github, já que durante o tempo que trabalhei no Pagbank usei exclusivamente a conta corporativa para desenvolver!
+
 
 <div style="display: inline_block"><br>
   <img align="center" title="React" alt="ReactJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -18,7 +22,9 @@ No momento estou organizando o Github, já que durante o tempo que trabalhei use
 - **Email:** yuri.suhet@gmail.com
 
 ---
-💡 *Sempre aberto a novas oportunidades e colaborações!*
+- 🔭 I’m currently working on ... [My Personal Blog](https://github.com/YuriSuheishi/blog-pessoal)
+  
+💡 *Always open to new opportunities and collaborations!* / *Sempre aberto a novas oportunidades e colaborações!* 
 
 <!--
 **YuriSuheishi/YuriSuheishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
